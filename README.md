@@ -1,6 +1,6 @@
 # 𝐊𝟒𝐰𝐧 - 𝐂𝐞𝐥𝐞𝐬𝐭𝐢𝐚𝐥 𝐆𝐫𝐚𝐧𝐮𝐥𝐚𝐫 𝐋𝐨𝐨𝐩𝐞𝐫
 
-> _Granular Looper & Synthesis Engine. Designed for real-time capture, grain manipulation and celestial soundscaping._
+> _Granular Looper & Synthesis Engine. Real-time capture, grain manipulation and celestial soundscaping._
 
 ![Under Development](https://img.shields.io/badge/Status-Under%20Development-orange)
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
@@ -17,7 +17,7 @@
 ## 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
 
 - **Granular Synthesis Core**: High-precision grain scanning and cloud density controls for textural exploration.
-- **Archival Terminal Aesthetic**: A high-contrast monochromatic interface with Nebula Cyan accents for focused "Mission Control" workflows.
+- **Archival Terminal Aesthetic**: Nebula monochromatic interface.
 - **Audio-Reactive Viewport**: A star field that pulsates and vibrates based on real-time synthesis telemetry.
 - **Stellar Interaction**: Constellation knobs designed for vertical-drag precision.
 - **Celestial Navigation**: Instantly swap between four unique engine profiles: Lyra, Cygnus, Orion, and Scorpius.
@@ -65,7 +65,7 @@
 
 ## 𝐂𝐨𝐧𝐭𝐫𝐨𝐥 𝐏𝐚𝐫𝐚𝐦𝐞𝐭𝐞𝐫𝐬
 
-### 𝐆𝐫𝐚𝐧𝐮𝐥𝐚𝐫 𝐄𝐧𝐠𝐢𝐧𝐞 (𝐋𝐞𝐟𝐭 𝐖𝐢𝐧𝐠)
+### 𝐆𝐫𝐚𝐧𝐮𝐥𝐚𝐫 𝐄𝐧𝐠𝐢𝐧𝐞
 | Parameter | Description |
 | :--- | :--- |
 | **Activity** | Controls grain density and the internal playback clock speed. |
@@ -73,7 +73,7 @@
 | **Filter** | High-precision master low-pass frequency control. |
 | **Mix** | Balance between dry signal and processed granular output. |
 
-### 𝐒𝐩𝐚𝐭𝐢𝐚𝐥 & 𝐌𝐚𝐬𝐭𝐞𝐫𝐲 (𝐑𝐢𝐠𝐡𝐭 / 𝐂𝐞𝐧𝐭𝐞𝐫)
+### 𝐒𝐩𝐚𝐭𝐢𝐚𝐥 & 𝐌𝐚𝐬𝐭𝐞𝐫𝐲
 | Module | Parameter | Function |
 | :--- | :--- | :--- |
 | **Void** | Reverb / Decay | Dedicated deep-space resonance and tail management. |
@@ -82,7 +82,7 @@
 | **Mastery** | Event Horizon | Asymmetrical control for grain singularity and saturation thresholds. |
 | **Mastery** | Quasar | High-frequency harmonic excitation and "air" mix. |
 
-### 𝐋𝐨𝐨𝐩𝐞𝐫 (𝐒𝐢𝐠𝐧𝐚𝐥 𝐂𝐚𝐩𝐭𝐮𝐫𝐞)
+### 𝐋𝐨𝐨𝐩𝐞𝐫
 | Command | State | Result |
 | :--- | :--- | :--- |
 | **Rec** | Red Glow | Initiates real-time signal recording into the granular buffer. |
