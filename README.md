@@ -18,10 +18,10 @@
 
 - **Granular Synthesis Core**: High-precision grain scanning and cloud density controls for textural exploration.
 - **Archival Terminal Aesthetic**: A high-contrast monochromatic interface with Nebula Cyan accents for focused "Mission Control" workflows.
-- **Audio-Reactive Viewport**: A 60FPS WebGL star field that pulsates and vibrates based on real-time synthesis telemetry.
-- **Stellar Interaction**: Minimalist "branches and dots" constellation knobs designed for vertical-drag precision.
+- **Audio-Reactive Viewport**: A star field that pulsates and vibrates based on real-time synthesis telemetry.
+- **Stellar Interaction**: Constellation knobs designed for vertical-drag precision.
 - **Celestial Navigation**: Instantly swap between four unique engine profiles: Lyra, Cygnus, Orion, and Scorpius.
-- **Signal Capture**: Integrated 3-button transport for recording, looping, and resetting granular buffers.
+- **Signal Capture**: Integrated 3-button transport for recording, looping and resetting granular buffers.
 
 ---
 
