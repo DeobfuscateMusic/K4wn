@@ -57,7 +57,7 @@
 **K4WN** features four specialized constellation maps that recalibrate the grain engine:
 
 - **LYRA**: Micro-looping profile. Focused on tight grain windows and rapid rhythmic repetitions.
-- **CYGNUS**: Mosaic imaging. Wide spatial distribution of grains for expansive, shifting textures.
+- **CYGNUS**: Mosaic imaging. Wide spatial distribution of grains for shifting textures.
 - **ORION**: Atmospheric synthesis. Hazy, overlapping grain clouds designed for drones and pads.
 - **SCORPIUS**: Experimental "Strumming." Sharp transients and aggressive grain positioning.
 
