@@ -1,4 +1,4 @@
-# 𝐊𝟒𝐰𝐧 - 𝐂𝐞𝐥𝐞𝐬𝐭𝐢𝐚𝐥 𝐆𝐫𝐚𝐧𝐮𝐥𝐚𝐫 𝐋𝐨𝐨𝐩𝐞𝐫
+# 𝐊𝟒𝐰𝐧
 
 > _Granular Looper & Synthesis Engine. Real-time capture, grain manipulation and celestial soundscaping._
 
@@ -10,7 +10,7 @@
 
 ---
 
-https://github.com/user-attachments/assets/02d25b45-77f4-47b5-bfa1-947b6453de1d
+https://github.com/user-attachments/assets/efeb165c-3643-4822-aa9c-85a168e4335f
 
 ---
 
