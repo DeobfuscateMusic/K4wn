@@ -20,7 +20,7 @@
 - **Celestial Map**: Nebula monochromatic interface.
 - **Audio-Reactive Viewport**: A star field that pulsates and vibrates based on real-time synthesis telemetry.
 - **Stellar Interaction**: Constellation knobs designed for vertical-drag precision.
-- **Celestial Navigation**: Instantly swap between four unique engine profiles: Lyra, Cygnus, Orion, and Scorpius.
+- **Celestial Navigation**: Instantly swap between four unique engine profiles: Lyra, Cygnus, Orion and Scorpius.
 - **Signal Capture**: Integrated 3-button transport for recording, looping and resetting granular buffers.
 
 ---
