@@ -10,7 +10,7 @@
 
 ---
 
-<img width="1424" height="722" alt="K4wn preview" src="https://github.com/user-attachments/assets/da2fbbb0-eaa3-45f2-8308-02be633eddbf" />
+https://github.com/user-attachments/assets/02d25b45-77f4-47b5-bfa1-947b6453de1d
 
 ---
 
