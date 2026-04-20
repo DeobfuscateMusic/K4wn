@@ -1,4 +1,4 @@
-# 𝐊𝟒𝐰𝐧
+# 𝐊𝐚𝐰𝐧
 
 > _Granular Looper & Synthesis Engine. Real-time capture, grain manipulation and celestial soundscaping._
 
@@ -36,25 +36,25 @@ https://github.com/user-attachments/assets/efeb165c-3643-4822-aa9c-85a168e4335f
 ## 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐚𝐭𝐢𝐨𝐧
 
 ### 𝐒𝐭𝐚𝐧𝐝𝐚𝐥𝐨𝐧𝐞
-1. Download the latest `K4wn`.
+1. Download the latest `Kawn`.
 2. Extract & Drag to your `Applications` folder.
-3. Open `K4wn` and begin looping.
+3. Open `Kawn` and begin looping.
 
 ### 𝐀𝐮𝐝𝐢𝐨 𝐔𝐧𝐢𝐭 (𝐀𝐔) (𝐀𝐛𝐥𝐞𝐭𝐨𝐧 𝟏𝟐)
-1. Copy `K4wn.component` to `/Library/Audio/Plug-Ins/Components`.
+1. Copy `Kawn.component` to `/Library/Audio/Plug-Ins/Components`.
 2. Rescan plugins in Ableton Live 12.
-3. Create a MIDI track and load `K4wn` to begin processing
+3. Create a MIDI track and load `Kawn` to begin processing
 
 ### 𝐕𝐒𝐓𝟑 (𝐀𝐛𝐥𝐞𝐭𝐨𝐧 𝟏𝟐)
-1. Copy `K4wn.vst3` to `/Library/Audio/Plug-Ins/VST3`.
+1. Copy `Kawn.vst3` to `/Library/Audio/Plug-Ins/VST3`.
 2. Rescan plugins in Ableton Live 12.
-3. Create a MIDI track and load `K4wn` to begin processing.
+3. Create a MIDI track and load `Kawn` to begin processing.
 
 ---
 
 ## 𝐆𝐫𝐚𝐧𝐮𝐥𝐚𝐫 𝐏𝐫𝐨𝐟𝐢𝐥𝐞𝐬
 
-**K4WN** features four specialized constellation maps that recalibrate the grain engine:
+**Kawn** features four specialized constellation maps that recalibrate the grain engine:
 
 - **LYRA**: Micro-looping profile. Focused on tight grain windows and rapid rhythmic repetitions.
 - **CYGNUS**: Mosaic imaging. Wide spatial distribution of grains for shifting textures.
