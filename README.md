@@ -1,6 +1,8 @@
-# 𝐊𝐚𝐰𝐧
+<p align="center"><img width="392" height="124" alt="Kawn_Banner_S" src="https://github.com/user-attachments/assets/59bd60bc-c2d3-4a67-9091-974afd640250" /></p>
 
-> _Granular Looper & Synthesis Engine. Real-time capture, grain manipulation and celestial soundscaping._
+_<p align="center">Granular Looper & Synthesis Engine. Real-time capture, grain manipulation and celestial soundscaping.</p>_
+
+---
 
 ![Under Development](https://img.shields.io/badge/Status-Under%20Development-orange)
 ![macOS Support](https://img.shields.io/badge/macOS-Sonoma%20%7C%20Sequoia%20%7C%20Tahoe-000000?style=flat-square&logo=apple&logoColor=white)
@@ -10,7 +12,7 @@
 
 ---
 
-https://github.com/user-attachments/assets/efeb165c-3643-4822-aa9c-85a168e4335f
+https://github.com/user-attachments/assets/b49cb37c-1e84-4a07-9a57-79ba98f2a875
 
 ---
 
